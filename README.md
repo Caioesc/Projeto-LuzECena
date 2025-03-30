@@ -51,8 +51,9 @@ A aplicação estará disponível em: http://localhost:5173
 
 Você pode me encontrar nas seguintes plataformas:
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caioheraclio@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caioescorel)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caioesc)
 
-Sinta-se à vontade para entrar em contato! Estou sempre aberto a novas oportunidades e colaborações. 🚀
+Ou por email: caioheraclio@gmail.com
+
+Sinta-se à vontade para entrar em contato! Estou sempre aberto a novas oportunidades e colaborações.
